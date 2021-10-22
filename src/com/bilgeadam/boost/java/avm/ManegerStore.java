@@ -3,7 +3,7 @@ package com.bilgeadam.boost.java.avm;
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
-import com.bilgeadam.javaboost.ödev.BAUtils;
+import com.bilgeadam.boost.java.ödev.BAUtils;
 
 public class ManegerStore {
 	static Scanner scanner = new Scanner(System.in);

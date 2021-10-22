@@ -5,7 +5,7 @@ import java.util.InputMismatchException;
 import java.util.List;
 import java.util.Scanner;
 
-import com.bilgeadam.javaboost.ödev.BAUtils;
+import com.bilgeadam.boost.java.ödev.BAUtils;
 
 public class RestaurantStore extends Store implements IStore {
 	static Scanner scanner = new Scanner(System.in);
